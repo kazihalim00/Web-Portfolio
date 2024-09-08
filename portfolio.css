@@ -1,0 +1,22 @@
+span{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+}
+nav>ul{
+    display: flex;
+   
+}
+nav li{
+    margin-right: 50px;
+    list-style: none;
+
+}
+nav a{
+    text-decoration: none;
+}
+.button{
+    background-color: #FD6E0A;
+border: 0;
+}
